@@ -1,0 +1,61 @@
+.img {
+    padding-top:1px;
+    height:60px;
+    width:660px;
+}
+
+.form {
+    padding-top:40px;
+}
+
+.title {
+    font-family: -moz-fixed;
+    font-weight:normal;
+    font-size:25px;
+    opacity:0.8;
+    padding-top:20px
+    
+}
+
+.input {
+    width:36%;
+    opacity:0.7;
+}
+
+.label {
+   font-family: -moz-fixed;
+   font-size:15px;
+   padding-right:25px;
+   opacity:0.6;
+}
+
+.btn {
+    width:190px;
+    height:38px;
+    border:none;
+    border-radius:8px;
+    color:white;
+}
+
+.well {
+    opacity:0.8;
+    font-size:13px;
+    padding-bottom:30px;
+}
+ 
+#verify {
+    background-color:blue;
+    opacity:0.6;
+}
+
+#forgot_user_id {
+    background-color:green;
+    opacity:0.7;
+}
+
+
+
+.space {
+    height:30px;
+}
+
